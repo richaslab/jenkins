@@ -1,0 +1,11 @@
+[root@mcdefranl022 ~]# update-alternatives --config java                        
+
+There are 2 programs which provide 'java'.
+
+  Selection    Command
+-----------------------------------------------
+*  1           java-1.8.0-openjdk.x86_64 (/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.332.b09-2.el8_6.x86_64/jre/bin/java)
+ + 2           java-11-openjdk.x86_64 (/usr/lib/jvm/java-11-openjdk-11.0.15.0.10-2.el8_6.x86_64/bin/java)
+
+Enter to keep the current selection[+], or type selection number: ^C
+[root@mcdefranl022 ~]#
