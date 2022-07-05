@@ -1,3 +1,5 @@
+HOW TO UPDATE WHICH JAVA TO USE
+-------------------------------------------------------
 [root@mcdefranl022 ~]# update-alternatives --config java                        
 
 There are 2 programs which provide 'java'.
@@ -9,3 +11,7 @@ There are 2 programs which provide 'java'.
 
 Enter to keep the current selection[+], or type selection number: ^C
 [root@mcdefranl022 ~]#
+
+BACKUP Jenkins
+-------------------------------------------------------
+Plugin - Thinbackup
